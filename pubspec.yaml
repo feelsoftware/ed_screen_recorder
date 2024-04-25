@@ -1,6 +1,6 @@
 name: ed_screen_recorder
 description: Screen Recorder for Flutter. This plug-in requires Android SDK 21+ and iOS 10+
-version: 0.0.15
+version: 0.0.16
 homepage: "https://github.com/endmr11/ed_screen_recorder"
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  uuid: ^3.0.6
+  uuid: 4.4.0
 
 dev_dependencies:
   flutter_test:
